@@ -16,7 +16,7 @@ minify:
     # minifyOutput: true
 
 languages:
-    fr:
+    en:
         languageName: "English"
         weight: 1
         title: Sidharth R
