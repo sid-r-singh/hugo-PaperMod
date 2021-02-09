@@ -47,14 +47,7 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
                 - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
                   url: "#"
 
 outputs:
