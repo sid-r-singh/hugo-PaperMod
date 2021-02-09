@@ -22,7 +22,7 @@ languages:
         title: Sidharth R | sidrana.dev
         profileMode:
             enabled: true
-            title: Hi there 👋 <br> I am Sidharth 👨🏼‍💻
+            title: Hi there 👋 I am Sidharth 👨🏼‍💻
             imageUrl: "https://res.cloudinary.com/mbrn/image/upload/ar_1:1,b_rgb:262c35,bo_1px_solid_rgb:0a0a0a,c_fill,e_grayscale,g_auto,q_92,r_7,w_1500,z_1.2/v1600231427/2_t6xpkp_new_z3qqug.jpg"
             imageTitle: Sidharth Ranasingh
             imageWidth: 160
