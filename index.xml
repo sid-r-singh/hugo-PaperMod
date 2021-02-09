@@ -25,6 +25,24 @@
     </item>
     
     <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>https://sidrana.dev/writings/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/posts/markdown-syntax.fr/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>https://sidrana.dev/writings/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/posts/markdown-syntax.fa/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FAQs</title>
       <link>https://sidrana.dev/writings/posts/papermod/papermod-faq/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
@@ -99,6 +117,15 @@
     
     <item>
       <title>Archive</title>
+      <link>https://sidrana.dev/writings/archives.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/archives.fr/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
       <link>https://sidrana.dev/writings/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -112,6 +139,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sidrana.dev/writings/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SearchL2</title>
+      <link>https://sidrana.dev/writings/search.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/search.fr/</guid>
       <description></description>
     </item>
     
