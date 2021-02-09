@@ -16,31 +16,13 @@ minify:
     # minifyOutput: true
 
 languages:
-    en:
+    fr:
         languageName: "English"
         weight: 1
-        menu:
-            main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
-
-    fr:
-        languageName: ":fr:"
-        weight: 2
-        title: PaperModL2
+        title: Sidharth R
         profileMode:
             enabled: true
-            title: PaperMod
+            title: Sidharth R
             # imageUrl: "#"
             # imageTitle: my image
             # imageWidth: 120
@@ -62,6 +44,9 @@ languages:
                 - name: Categories
                   url: categories
                   weight: 10
+                - name: Search
+                  url: search/
+                  weight: 10
                 - name: Series
                   url: series
                   weight: 10
@@ -71,19 +56,6 @@ languages:
                   url: "#"
                 - name: NullLink3
                   url: "#"
-
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        menu:
-            main:
-                - name: Tags
-                  url: tags
-                  weight: 10
 
 outputs:
     home:
