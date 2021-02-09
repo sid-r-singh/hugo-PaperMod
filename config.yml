@@ -1,5 +1,5 @@
 baseURL: "https://sidrana.dev/writings"
-title: Sidharth R
+title: Sidharth R 
 paginate: 5
 theme: hugo-PaperMod
 
@@ -19,15 +19,15 @@ languages:
     en:
         languageName: "English"
         weight: 1
-        title: Sidharth R
+        title: Sidharth R | sidrana.dev
         profileMode:
             enabled: true
             title: Hi there 👋
             imageUrl: "https://res.cloudinary.com/mbrn/image/upload/ar_1:1,b_rgb:262c35,bo_1px_solid_rgb:0a0a0a,c_fill,e_grayscale,g_auto,q_92,r_7,w_1500,z_1.2/v1600231427/2_t6xpkp_new_z3qqug.jpg"
             imageTitle: Sidharth Ranasingh
-            imageWidth: 120
-            imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            imageWidth: 160
+            imageHeight: 160
+            subtitle: "I am Sidharth, an interdisciplinary programmer who is curious about connecting things (often to the internet). This is place on the 🌍 where I put my 🧠 out."
             buttons:
                 - name: Blog
                   url: posts
@@ -47,8 +47,6 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: NullLink
-                  url: "#"
 
 outputs:
     home:
@@ -100,11 +98,11 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: RsS
-          url: "index.xml"
+          url: "https://github.com/sid-r-singh/"
+        - name: buymeacoffee
+          url: "https://www.buymeacoffee.com/sidranathedev"
+        - name: twitter
+          url: "https://twitter.com/sidRanasingh"
 
     # label:
     #     text: "Home"
