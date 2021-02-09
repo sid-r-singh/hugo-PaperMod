@@ -22,7 +22,7 @@ languages:
         title: Sidharth R
         profileMode:
             enabled: true
-            title: Sidharth R
+            title: Hi there 👋
             # imageUrl: "#"
             # imageTitle: my image
             # imageWidth: 120
@@ -58,8 +58,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "An interdisciplinary blog on IOT, git, GitHub action, Firebase, HTML, CSS, JS, jQuery, PHP"
+    author: Sidharth Ranasingh
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
