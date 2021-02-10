@@ -101,6 +101,8 @@ params:
           url: "https://github.com/sid-r-singh/"
         - name: buymeacoffee
           url: "https://www.buymeacoffee.com/sidranathedev"
+        - name: telegram
+          url: "https://t.me/sidRanasingh"
         - name: twitter
           url: "https://twitter.com/sidRanasingh"
 
