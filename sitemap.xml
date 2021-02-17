@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://sidrana.dev/writings/posts/markdown-syntax/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sidrana.dev/writings/tags/html/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -64,6 +59,11 @@
   
   <url>
     <loc>https://sidrana.dev/writings/tags/markdown/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidrana.dev/writings/posts/markdown-syntax/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
