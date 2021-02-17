@@ -1,11 +1,11 @@
 ---
-author: "Hugo Authors"
+author: "Sidharth Ranasingh"
 title: "More about me"
-date: "2019-03-05"
-description: "Guide to emoji usage in Hugo"
-tags: ["emoji"]
-ShowToc: false
-ShowBreadCrumbs: false
+date: "2021-01-09"
+description: "This page answers the question 'who I am ?'"
+tags: ["bio"]
+ShowToc: true
+ShowBreadCrumbs: true
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
