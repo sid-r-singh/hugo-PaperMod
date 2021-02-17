@@ -138,6 +138,16 @@
   </url>
   
   <url>
+    <loc>https://sidrana.dev/writings/tags/bio/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidrana.dev/writings/more_about_me/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sidrana.dev/writings/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -174,11 +184,6 @@
   
   <url>
     <loc>https://sidrana.dev/writings/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/writings/more_about_me/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
