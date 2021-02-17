@@ -5,20 +5,11 @@
     <link>https://sidrana.dev/writings/tags/</link>
     <description>Recent content in Tags on Sidharth R | sidrana.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/writings/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PaperMod</title>
-      <link>https://sidrana.dev/writings/tags/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidrana.dev/writings/tags/papermod/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/writings/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
       <link>https://sidrana.dev/writings/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://sidrana.dev/writings/tags/css/</guid>
       <description></description>
@@ -27,7 +18,7 @@
     <item>
       <title>html</title>
       <link>https://sidrana.dev/writings/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://sidrana.dev/writings/tags/html/</guid>
       <description></description>
@@ -36,7 +27,7 @@
     <item>
       <title>markdown</title>
       <link>https://sidrana.dev/writings/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://sidrana.dev/writings/tags/markdown/</guid>
       <description></description>
@@ -45,9 +36,18 @@
     <item>
       <title>themes</title>
       <link>https://sidrana.dev/writings/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://sidrana.dev/writings/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaperMod</title>
+      <link>https://sidrana.dev/writings/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/tags/papermod/</guid>
       <description></description>
     </item>
     
