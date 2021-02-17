@@ -127,6 +127,15 @@ Missing After installing the latest update in my PC, I was astonished to find th
     </item>
     
     <item>
+      <title>More about me</title>
+      <link>https://sidrana.dev/writings/more_about_me/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/more_about_me/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Archive</title>
       <link>https://sidrana.dev/writings/archives.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
