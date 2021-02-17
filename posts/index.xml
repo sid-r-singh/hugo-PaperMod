@@ -71,5 +71,14 @@ H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aqu
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://sidrana.dev/writings/posts/newpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidrana.dev/writings/posts/newpost/</guid>
+      <description>HI </description>
+    </item>
+    
   </channel>
 </rss>
