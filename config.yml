@@ -36,6 +36,9 @@ languages:
                   url: posts
                 - name: Tags
                   url: tags
+                - name: More about me    
+                  url: more_about_me/ 
+                  
         menu:
             main:
                 - name: Archive
