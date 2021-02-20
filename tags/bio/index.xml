@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bio on Sidharth R | sidrana.dev</title>
-    <link>https://sidrana.dev/writings/tags/bio/</link>
+    <link>https://sidrana.dev/tags/bio/</link>
     <description>Recent content in bio on Sidharth R | sidrana.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/writings/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/tags/bio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>More about me</title>
-      <link>https://sidrana.dev/writings/more_about_me/</link>
+      <link>https://sidrana.dev/more_about_me/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/more_about_me/</guid>
+      <guid>https://sidrana.dev/more_about_me/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sidharth R | sidrana.dev</title>
-    <link>https://sidrana.dev/writings/tags/</link>
+    <link>https://sidrana.dev/tags/</link>
     <description>Recent content in Tags on Sidharth R | sidrana.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/writings/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cmd</title>
-      <link>https://sidrana.dev/writings/tags/cmd/</link>
+      <link>https://sidrana.dev/tags/cmd/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/cmd/</guid>
+      <guid>https://sidrana.dev/tags/cmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://sidrana.dev/writings/tags/css/</link>
+      <link>https://sidrana.dev/tags/css/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/css/</guid>
+      <guid>https://sidrana.dev/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://sidrana.dev/writings/tags/html/</link>
+      <link>https://sidrana.dev/tags/html/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/html/</guid>
+      <guid>https://sidrana.dev/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://sidrana.dev/writings/tags/markdown/</link>
+      <link>https://sidrana.dev/tags/markdown/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/markdown/</guid>
+      <guid>https://sidrana.dev/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://sidrana.dev/writings/tags/themes/</link>
+      <link>https://sidrana.dev/tags/themes/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/themes/</guid>
+      <guid>https://sidrana.dev/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windows</title>
-      <link>https://sidrana.dev/writings/tags/windows/</link>
+      <link>https://sidrana.dev/tags/windows/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/windows/</guid>
+      <guid>https://sidrana.dev/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaperMod</title>
-      <link>https://sidrana.dev/writings/tags/papermod/</link>
+      <link>https://sidrana.dev/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/papermod/</guid>
+      <guid>https://sidrana.dev/tags/papermod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bio</title>
-      <link>https://sidrana.dev/writings/tags/bio/</link>
+      <link>https://sidrana.dev/tags/bio/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/bio/</guid>
+      <guid>https://sidrana.dev/tags/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://sidrana.dev/writings/tags/privacy/</link>
+      <link>https://sidrana.dev/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/privacy/</guid>
+      <guid>https://sidrana.dev/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://sidrana.dev/writings/tags/shortcodes/</link>
+      <link>https://sidrana.dev/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/shortcodes/</guid>
+      <guid>https://sidrana.dev/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://sidrana.dev/writings/tags/text/</link>
+      <link>https://sidrana.dev/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/text/</guid>
+      <guid>https://sidrana.dev/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://sidrana.dev/writings/tags/emoji/</link>
+      <link>https://sidrana.dev/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sidrana.dev/writings/tags/emoji/</guid>
+      <guid>https://sidrana.dev/tags/emoji/</guid>
       <description></description>
     </item>
     
