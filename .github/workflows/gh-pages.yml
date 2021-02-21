@@ -41,3 +41,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           cname: sidrana.dev
+          full_commit_message: Deployed by GH action 🚀 
