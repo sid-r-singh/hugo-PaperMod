@@ -3,4 +3,4 @@
 
 ☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive
 ## [LightHouse Report (100% ?)](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fsidrana.dev)
-## [Pagespeed insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fsidrana.dev&tab=mobile)
+## [Pagespeed insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fsidrana.dev&tab=desktop)
