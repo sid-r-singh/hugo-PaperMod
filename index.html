@@ -103,45 +103,30 @@
 	<script src="vendor/countdowntime/moment-timezone-with-data.min.js"></script>
 	<script src="vendor/countdowntime/countdowntime.js"></script>
 	<script>
-	function timeDiffCalc(dateFuture, dateNow) {
-			let diffInMilliSeconds = Math.abs(dateFuture - dateNow) / 1000;
+	var countDownDate = new Date("Jun 15, 2021 12:00:00").getTime();
 
-			// calculate days
-			const days = Math.floor(diffInMilliSeconds / 86400);
-			diffInMilliSeconds -= days * 86400;
-			console.log('calculated days', days);
 
-			// calculate hours
-			const hours = Math.floor(diffInMilliSeconds / 3600) % 24;
-			diffInMilliSeconds -= hours * 3600;
-			console.log('calculated hours', hours);
+	  // Get today's date and time
+	  var now = new Date().getTime();
+		
+	  // Find the distance between now and the count down date
+	  var distance = countDownDate - now;
+		
+	  // Time calculations for days, hours, minutes and seconds
+	  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+	  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+	  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-			// calculate minutes
-			const minutes = Math.floor(diffInMilliSeconds / 60) % 60;
-			diffInMilliSeconds -= minutes * 60;
-			console.log('minutes', minutes);
-
-			let difference = '';
-			if (days > 0) {
-			  difference += (days === 1) ? `${days} day, ` : `${days} days, `;
-			}
-
-			difference += (hours === 0 || hours === 1) ? `${hours} hour, ` : `${hours} hours, `;
-
-			difference += (minutes === 0 || hours === 1) ? `${minutes} minutes` : `${minutes} minutes`; 
-
-			return difference;
-  }
-console.log(timeDiffCalc(new Date('2021/04/21 04:10:00'), new Date('2021/06/15 18:20:00')));
 		$('.cd100').countdown100({
 			// Set Endtime here
 			// Endtime must be > current time
 			endtimeYear: 0,
 			endtimeMonth: 0,
-			endtimeDate: 56,
-			endtimeHours: 18,
-			endtimeMinutes: 0,
-			endtimeSeconds: 0,
+			endtimeDate: days,
+			endtimeHours: hours,
+			endtimeMinutes: minutes,
+			endtimeSeconds: seconds,
 			timeZone: "" 
 			// ex:  timeZone: "America/New_York", can be empty
 			// go to " http://momentjs.com/timezone/ " to get timezone
