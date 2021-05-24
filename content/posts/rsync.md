@@ -9,7 +9,6 @@ aliases: ["understand rsunc"]
 ShowToc: true
 TocOpen: false
 ---
-## Understand the Rsync Command
 
 ### Example command
 
