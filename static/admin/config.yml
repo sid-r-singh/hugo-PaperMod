@@ -28,8 +28,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Show TOC", name: "showtoc", widget: "boolean", default: true}
       - {label: "TOC open", name: "tocopen", widget: "boolean", default: false}
-      - {label: "Taga", name: "tags", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
