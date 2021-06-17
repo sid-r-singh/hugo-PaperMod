@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>text on Sidharth R | sidrana.dev</title>
-    <link>https://blog.sidrana.dev/tags/text/</link>
+    <link>https://sidrana.dev/tags/text/</link>
     <description>Recent content in text on Sidharth R | sidrana.dev</description>
     <image>
-      <url>https://blog.sidrana.dev/papermod-cover.png</url>
-      <link>https://blog.sidrana.dev/papermod-cover.png</link>
+      <url>https://sidrana.dev/papermod-cover.png</url>
+      <link>https://sidrana.dev/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.sidrana.dev/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>https://blog.sidrana.dev/posts/placeholder-text/</link>
+      <link>https://sidrana.dev/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.sidrana.dev/posts/placeholder-text/</guid>
+      <guid>https://sidrana.dev/posts/placeholder-text/</guid>
       <description>Lorem Ipsum Dolor Si Amet</description>
     </item>
     

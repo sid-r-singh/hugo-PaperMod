@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>github-pages on Sidharth R | sidrana.dev</title>
-    <link>https://blog.sidrana.dev/tags/github-pages/</link>
+    <link>https://sidrana.dev/tags/github-pages/</link>
     <description>Recent content in github-pages on Sidharth R | sidrana.dev</description>
     <image>
-      <url>https://blog.sidrana.dev/papermod-cover.png</url>
-      <link>https://blog.sidrana.dev/papermod-cover.png</link>
+      <url>https://sidrana.dev/papermod-cover.png</url>
+      <link>https://sidrana.dev/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 May 2021 15:36:08 +0000</lastBuildDate><atom:link href="https://blog.sidrana.dev/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 15:36:08 +0000</lastBuildDate><atom:link href="https://sidrana.dev/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Private github repo with github pages for free</title>
-      <link>https://blog.sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</link>
+      <link>https://sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</link>
       <pubDate>Mon, 31 May 2021 15:36:08 +0000</pubDate>
       
-      <guid>https://blog.sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</guid>
+      <guid>https://sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</guid>
       <description>Ideally, If you wish to keep your code private &amp;amp; still use github-pages then you got to pay $4 /month (i.e. become a github pro user). But do you know that you can do it for free ? Here is the way. Make a private repo 1st where you will be hosting your source code. Next create a public repo where you wish the static/build files to be placed.
 Now in your private repo create a folder &amp;ldquo;.</description>
     </item>

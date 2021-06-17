@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>bash on Sidharth R | sidrana.dev</title>
-    <link>https://blog.sidrana.dev/tags/bash/</link>
+    <link>https://sidrana.dev/tags/bash/</link>
     <description>Recent content in bash on Sidharth R | sidrana.dev</description>
     <image>
-      <url>https://blog.sidrana.dev/papermod-cover.png</url>
-      <link>https://blog.sidrana.dev/papermod-cover.png</link>
+      <url>https://sidrana.dev/papermod-cover.png</url>
+      <link>https://sidrana.dev/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.sidrana.dev/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sidrana.dev/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding the Rsync Command</title>
-      <link>https://blog.sidrana.dev/posts/rsync/</link>
+      <link>https://sidrana.dev/posts/rsync/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.sidrana.dev/posts/rsync/</guid>
+      <guid>https://sidrana.dev/posts/rsync/</guid>
       <description>Using rsync in linux</description>
     </item>
     
