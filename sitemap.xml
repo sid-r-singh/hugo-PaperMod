@@ -1,206 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-installation/</loc>
+    <loc>https://blog.sidrana.dev/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-features/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/markdown-syntax.fr/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/markdown-syntax.fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/markdown-syntax.fa/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/markdown-syntax.fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-faq/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/papermod/papermod-faq/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-icons/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/papermod/papermod-icons/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-variables/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/papermod/papermod-variables/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/categories/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/github-action/</loc>
+    <lastmod>2021-05-31T15:36:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/github-pages/</loc>
+    <lastmod>2021-05-31T15:36:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/</loc>
+    <lastmod>2021-05-31T15:36:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</loc>
+    <lastmod>2021-05-31T15:36:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/</loc>
+    <lastmod>2021-05-31T15:36:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/</loc>
+    <lastmod>2021-05-31T15:36:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/bash/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/categories/bash/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/categories/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/linux/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/rsync/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/cmd/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/cmd/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/css/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/css/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/html/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/html/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/newpost/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/newpost/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/markdown/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/markdown/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/markdown-syntax/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/markdown-syntax/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/series/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/categories/software-installation/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/series/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/categories/syntax/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/themes/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/categories/software-installation/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/categories/themes/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/categories/syntax/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/series/themes-guide/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/windows/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/themes/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/categories/themes/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/series/themes-guide/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/windows/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/papermod/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/series/papermod/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/papermod/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/bio/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/bio/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/more_about_me/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/more_about_me/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/privacy/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/rich-content/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/shortcodes/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/placeholder-text/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/text/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/math-typesetting/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/tags/emoji/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/posts/emoji-support/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.sidrana.dev/archives.fr/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/archives/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/search/</loc>
+  </url><url>
+    <loc>https://blog.sidrana.dev/search.fr/</loc>
   </url>
-  
-  <url>
-    <loc>https://sidrana.dev/archives.fr/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sidrana.dev/search.fr/</loc>
-  </url>
-  
 </urlset>

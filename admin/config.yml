@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: exampleSite
+publish_mode: editorial_workflow
+media_folder: static/img
+public_folder: /img
+site_url: https://blog.sidrana.dev
+sortable_fields: ['commit_date', 'title']
+view_filters:
+  - label: "Alice's and Bob's Posts"
+    field: author
+    pattern: 'Alice|Bob'
+  - label: 'Posts published in 2020'
+    field: date
+    pattern: '2020'
+  - label: 'Posts published in 2021'
+    field: date
+    pattern: '2021'
+  - label: Drafts
+    field: draft
+    pattern: true
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Show TOC", name: "showtoc", widget: "boolean", default: true}
+      - {label: "TOC open", name: "tocopen", widget: "boolean", default: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}

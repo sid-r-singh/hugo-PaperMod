@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sidharth R | sidrana.dev</title>
+    <link>https://blog.sidrana.dev/</link>
+    <description>Recent content on Sidharth R | sidrana.dev</description>
+    <image>
+      <url>https://blog.sidrana.dev/papermod-cover.png</url>
+      <link>https://blog.sidrana.dev/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 May 2021 15:36:08 +0000</lastBuildDate><atom:link href="https://blog.sidrana.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation | Update</title>
+      <link>https://blog.sidrana.dev/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/papermod/papermod-installation/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://blog.sidrana.dev/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/papermod/papermod-features/</guid>
+      <description>Get known about All Features in PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>https://blog.sidrana.dev/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>https://blog.sidrana.dev/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>https://blog.sidrana.dev/posts/papermod/papermod-faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/papermod/papermod-faq/</guid>
+      <description>Frequently Asked Questions</description>
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>https://blog.sidrana.dev/posts/papermod/papermod-icons/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/papermod/papermod-icons/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Variables | Front Matter</title>
+      <link>https://blog.sidrana.dev/posts/papermod/papermod-variables/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/papermod/papermod-variables/</guid>
+      <description>List of Front Matter variables used by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Private github repo with github pages for free</title>
+      <link>https://blog.sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</link>
+      <pubDate>Mon, 31 May 2021 15:36:08 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/private-github-repo-with-github-pages-for-free/</guid>
+      <description>Ideally, If you wish to keep your code private &amp;amp; still use github-pages then you got to pay $4 /month (i.e. become a github pro user). But do you know that you can do it for free ? Here is the way. Make a private repo 1st where you will be hosting your source code. Next create a public repo where you wish the static/build files to be placed.
+Now in your private repo create a folder &amp;ldquo;.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Rsync Command</title>
+      <link>https://blog.sidrana.dev/posts/rsync/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/rsync/</guid>
+      <description>Using rsync in linux</description>
+    </item>
+    
+    <item>
+      <title>Install the missing connect software on windows 10</title>
+      <link>https://blog.sidrana.dev/posts/newpost/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/newpost/</guid>
+      <description>Get the connect app in your Windows PC</description>
+    </item>
+    
+    <item>
+      <title>Markdown syntax</title>
+      <link>https://blog.sidrana.dev/posts/markdown-syntax/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/markdown-syntax/</guid>
+      <description>Sample article </description>
+    </item>
+    
+    <item>
+      <title>More about me</title>
+      <link>https://blog.sidrana.dev/more_about_me/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/more_about_me/</guid>
+      <description>This page answers the question &amp;#39;who I am ?&amp;#39;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://blog.sidrana.dev/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://blog.sidrana.dev/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/placeholder-text/</guid>
+      <description>Lorem Ipsum Dolor Si Amet</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://blog.sidrana.dev/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://blog.sidrana.dev/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.sidrana.dev/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    
+    
+    
+    
+    
+  </channel>
+</rss>
