@@ -1,4 +1,4 @@
-baseURL: "https://blog.sidrana.dev/"
+baseURL: "https://sidrana.dev/"
 title: Sidharth R 
 paginate: 5
 theme: hugo-PaperMod
