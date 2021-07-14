@@ -9,6 +9,6 @@ ShowBreadCrumbs: true
 ---
 
 {{< highlight bash >}}
-sudo apt get modssl
+sudo apt get modssl &&
 {{< /highlight >}}
 
