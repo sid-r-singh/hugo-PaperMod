@@ -73,23 +73,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>privacy</title>
-      <link>https://sidrana.dev/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidrana.dev/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://sidrana.dev/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidrana.dev/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

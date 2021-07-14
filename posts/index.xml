@@ -38,14 +38,5 @@ Now in your private repo create a folder &amp;ldquo;.</description>
       <description>Get the connect app in your Windows PC</description>
     </item>
     
-    <item>
-      <title>Rich Content</title>
-      <link>https://sidrana.dev/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidrana.dev/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
-    
   </channel>
 </rss>
