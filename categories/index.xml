@@ -28,23 +28,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>syntax</title>
-      <link>https://sidrana.dev/categories/syntax/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidrana.dev/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://sidrana.dev/categories/themes/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sidrana.dev/categories/themes/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

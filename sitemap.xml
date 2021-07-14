@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-faq/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-icons/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/papermod/papermod-variables/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sidrana.dev/tags/github-action/</loc>
     <lastmod>2021-05-31T15:36:08+00:00</lastmod>
   </url><url>
@@ -53,50 +38,14 @@
     <loc>https://sidrana.dev/tags/cmd/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sidrana.dev/tags/css/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/tags/html/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sidrana.dev/posts/newpost/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/tags/markdown/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/markdown-syntax/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/series/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sidrana.dev/categories/software-installation/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sidrana.dev/categories/syntax/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/tags/themes/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/categories/themes/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/series/themes-guide/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sidrana.dev/tags/windows/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sidrana.dev/tags/bio/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
@@ -113,27 +62,10 @@
     <loc>https://sidrana.dev/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sidrana.dev/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sidrana.dev/archives.fr/</loc>
-  </url><url>
     <loc>https://sidrana.dev/archives/</loc>
   </url><url>
     <loc>https://sidrana.dev/search/</loc>
   </url><url>
-    <loc>https://sidrana.dev/search.fr/</loc>
+    <loc>https://sidrana.dev/series/</loc>
   </url>
 </urlset>
