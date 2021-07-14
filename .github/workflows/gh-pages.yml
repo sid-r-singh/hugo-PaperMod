@@ -1,14 +1,14 @@
 name: Build GH-Pages
 
 on:
-#   push:
-#     paths-ignore:
-#       - 'images/**'
-#       - 'LICENSE'
-#       - 'README.md'
-#     branches:
-#       - exampleSite
-  workflow_dispatch:
+  push:
+    paths-ignore:
+      - 'images/**'
+      - 'LICENSE'
+      - 'README.md'
+    branches:
+      - exampleSite
+#  workflow_dispatch:
     # manual run
 
 jobs:
